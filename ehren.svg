@@ -1,0 +1,23 @@
+<svg width="520" height="190" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- background (warm dark blue) -->
+  <rect width="100%" height="100%" fill="#1B263B"/>
+
+  <!-- title -->
+  <text x="40" y="40" font-size="22" fill="#F1F1F1" font-family="Arial">
+    Ehrenmänner
+  </text>
+
+  <!-- divider -->
+  <line x1="40" y1="55" x2="480" y2="55" stroke="#2E4057" stroke-width="1"/>
+
+  <!-- names -->
+  <text x="40" y="95" font-size="18" fill="#7DFFB3" font-family="Arial">
+    Speed
+  </text>
+
+  <text x="40" y="130" font-size="18" fill="#7DFFB3" font-family="Arial">
+    Aru
+  </text>
+
+</svg>
